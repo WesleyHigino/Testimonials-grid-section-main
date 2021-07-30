@@ -63,7 +63,7 @@ Font size: 13px
   
 # Meu aprendizado neste projeto
   
-  Com esse projeto trabalhei bastante com o grid layout. Como os cartoẽs tinham medidas diferentes uma das outras, acabei tendo um pouco de dificuldade em organizar o grid-tamplate-areas e tambem para alinhamento dos itens.Tirei bastante proveito com essas dificuldades e pude evoluir bastante com elas.
+  Com esse projeto trabalhei bastante com o grid layout. Como os cartoẽs tinham medidas diferentes uma das outras, acabei tendo um pouco de dificuldade em organizar o grid-tamplate-areas e tambem para alinhar os itens.Tirei bastante proveito com essas dificuldades e pude evoluir bastante com elas.
   
 # Autor
 
